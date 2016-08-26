@@ -51,7 +51,7 @@ value = 0;
 },
 {
 name = hheaLineGap;
-value = 9;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -67,14 +67,14 @@ value = -250;
 },
 {
 name = winDescent;
-value = 0;
+value = 271;
 },
 {
 name = winAscent;
-value = 0;
+value = 991;
 }
 );
-descender = -250;
+descender = -180;
 horizontalStems = (
 126,
 24,
@@ -98,7 +98,7 @@ alignmentZones = (
 "{-250, 0}"
 );
 ascender = 750;
-capHeight = 700;
+capHeight = 736;
 customParameters = (
 {
 name = typoDescender;
@@ -110,7 +110,7 @@ value = 0;
 },
 {
 name = hheaLineGap;
-value = 9;
+value = 0;
 },
 {
 name = hheaAscender;
@@ -126,14 +126,14 @@ value = -250;
 },
 {
 name = winDescent;
-value = 0;
+value = 271;
 },
 {
 name = winAscent;
-value = 0;
+value = 991;
 }
 );
-descender = -250;
+descender = -210;
 horizontalStems = (
 65,
 81,
@@ -147,7 +147,7 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 150;
-xHeight = 500;
+xHeight = 437;
 }
 );
 glyphs = (
@@ -25496,6 +25496,40 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = typoAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 271;
+},
+{
+name = winAscent;
+value = 991;
+}
+);
 interpolationWeight = 14;
 instanceInterpolations = {
 UUID0 = 1;
@@ -25504,6 +25538,40 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = typoAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 271;
+},
+{
+name = winAscent;
+value = 991;
+}
+);
 interpolationWeight = 41;
 instanceInterpolations = {
 UUID0 = 0.801471;
@@ -25513,6 +25581,40 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = typoAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 271;
+},
+{
+name = winAscent;
+value = 991;
+}
+);
 interpolationWeight = 69;
 instanceInterpolations = {
 UUID0 = 0.595588;
@@ -25521,6 +25623,40 @@ UUID1 = 0.404412;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = typoAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 271;
+},
+{
+name = winAscent;
+value = 991;
+}
+);
 interpolationWeight = 109;
 instanceInterpolations = {
 UUID0 = 0.301471;
@@ -25530,6 +25666,40 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = typoAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = winDescent;
+value = 271;
+},
+{
+name = winAscent;
+value = 991;
+}
+);
 interpolationWeight = 123;
 instanceInterpolations = {
 UUID0 = 0.198529;
