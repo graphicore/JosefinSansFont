@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+H
+);
 copyright = "Copyright (c) 2010, The Josefin Sans Project Authors (hi@typemade.mx), with Reserved Font Name Josefin";
 customParameters = (
 {
@@ -76,7 +79,7 @@ verticalStems = (
 177
 );
 weight = Light;
-weightValue = 220;
+weightValue = 14;
 xHeight = 375;
 },
 {
@@ -135,7 +138,7 @@ verticalStems = (
 246
 );
 weight = Bold;
-weightValue = 256;
+weightValue = 150;
 xHeight = 500;
 }
 );
@@ -25470,12 +25473,47 @@ unicode = 02DC;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+interpolationWeight = 14;
 instanceInterpolations = {
-UUID0 = 4.33333;
-UUID1 = -3.33333;
+UUID0 = 1;
+};
+name = Thin;
+weightClass = Thin;
+},
+{
+interpolationWeight = 41;
+instanceInterpolations = {
+UUID0 = 0.801471;
+UUID1 = 0.198529;
+};
+name = Light;
+weightClass = Light;
+},
+{
+interpolationWeight = 69;
+instanceInterpolations = {
+UUID0 = 0.595588;
+UUID1 = 0.404412;
 };
 name = Regular;
-weightClass = Normal;
+},
+{
+interpolationWeight = 109;
+instanceInterpolations = {
+UUID0 = 0.301471;
+UUID1 = 0.698529;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 123;
+instanceInterpolations = {
+UUID0 = 0.198529;
+UUID1 = 0.801471;
+};
+name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {
