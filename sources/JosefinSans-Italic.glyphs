@@ -25591,6 +25591,7 @@ instanceInterpolations = {
 UUID0 = 0.790698;
 UUID1 = 0.209302;
 };
+isItalic = 1;
 name = Light;
 weightClass = Light;
 },
@@ -25634,6 +25635,7 @@ instanceInterpolations = {
 UUID0 = 0.573643;
 UUID1 = 0.426357;
 };
+isItalic = 1;
 name = Regular;
 },
 {
@@ -25676,6 +25678,7 @@ instanceInterpolations = {
 UUID0 = 0.263566;
 UUID1 = 0.736434;
 };
+isItalic = 1;
 name = SemiBold;
 weightClass = SemiBold;
 },
@@ -25719,6 +25722,7 @@ instanceInterpolations = {
 UUID0 = 0.155039;
 UUID1 = 0.844961;
 };
+isItalic = 1;
 name = Bold;
 weightClass = Bold;
 }
