@@ -23,6 +23,14 @@ This project is a fork from the old Google font repository.
 
 # Completed tasks:
 
+* Create Repository.
+* Ported files from Fontlab-MM sources to Glyphs.
+* Added instances.
+* Updated font info.
+* Updated vertical metrics.
+* Tasks from checklist.
+* Pass our QA and test scripts.
+
 # Todo:
 
 * Improve README.md
