@@ -28,4 +28,5 @@ This project is a fork from the old Google font repository.
 * Improve README.md
 * There is already one master that is bolder than the bold instance. Would be a piece of cake to extend the family with an Extra Bold style.
 * VendorID is missing
+* Please check the Kerning, there are IKERN files in the sources. Maybe we need to import the kerning from there?
 * Run fonts through Fontbakery and ship fonts.
