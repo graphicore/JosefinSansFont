@@ -27,4 +27,5 @@ This project is a fork from the old Google font repository.
 
 * Improve README.md
 * There is already one master that is bolder than the bold instance. Would be a piece of cake to extend the family with an Extra Bold style.
+* VendorID is missing
 * Run fonts through Fontbakery and ship fonts.

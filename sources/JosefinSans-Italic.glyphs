@@ -16,6 +16,14 @@ value = "Josefin Sans is a trademark of Typemade.";
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = "0";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-08-26 16:26:52 +0000";
@@ -15753,7 +15761,7 @@ transform = "{1, 0, 0, 0.9987, 278, 0}";
 },
 {
 name = four;
-transform = "{0.7430, 0, 0, 0.7447, 474, 0}";
+transform = "{0.743, 0, 0, 0.7447, 474, 0}";
 },
 {
 name = one;
@@ -15771,7 +15779,7 @@ transform = "{1, 0, 0, 1, 239, 0}";
 },
 {
 name = four;
-transform = "{0.7430, 0, 0, 0.7447, 474, 0}";
+transform = "{0.743, 0, 0, 0.7447, 474, 0}";
 },
 {
 name = one;
@@ -15792,7 +15800,7 @@ layers = (
 components = (
 {
 name = three;
-transform = "{0.7705, 0, 0, 0.7720, 107, 206}";
+transform = "{0.7705, 0, 0, 0.772, 107, 206}";
 },
 {
 name = slash;
@@ -15818,7 +15826,7 @@ transform = "{1, 0, 0, 1, 429, 0}";
 },
 {
 name = four;
-transform = "{0.7430, 0, 0, 0.7447, 673, 0}";
+transform = "{0.743, 0, 0, 0.7447, 673, 0}";
 }
 );
 layerId = UUID1;
@@ -19188,6 +19196,21 @@ width = 300;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = UUID0;
+width = 300;
+},
+{
+layerId = UUID1;
+width = 300;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
 },
 {
 glyphname = CR;
