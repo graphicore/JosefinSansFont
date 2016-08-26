@@ -2,7 +2,9 @@
 .appVersion = "895";
 DisplayStrings = (
 H,
-/tilde
+/tilde,
+D,
+"\U00D0"
 );
 copyright = "Copyright (c) 2010, The Josefin Sans Project Authors (hi@typemade.mx), with Reserved Font Name Josefin";
 customParameters = (
@@ -1350,7 +1352,7 @@ unicode = 010A;
 },
 {
 glyphname = D;
-lastChange = "2016-08-26 20:41:54 +0000";
+lastChange = "2016-08-26 20:51:55 +0000";
 layers = (
 {
 hints = (
@@ -1372,7 +1374,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"85 14 LINE",
+"246 0 LINE SMOOTH",
+"453 0 OFFCURVE",
+"644 154 OFFCURVE",
+"644 387 CURVE SMOOTH",
+"644 534 OFFCURVE",
+"554 700 OFFCURVE",
+"298 700 CURVE SMOOTH",
+"155 700 LINE",
+"69 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "112 238 OFFCURVE",
 "140 461 OFFCURVE",
 "167 685 CURVE",
@@ -1382,21 +1397,8 @@ nodes = (
 "631 385 CURVE SMOOTH",
 "631 161 OFFCURVE",
 "449 14 OFFCURVE",
-"254 14 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"155 700 LINE",
-"69 0 LINE",
-"246 0 LINE SMOOTH",
-"453 0 OFFCURVE",
-"644 154 OFFCURVE",
-"644 387 CURVE SMOOTH",
-"644 534 OFFCURVE",
-"554 700 OFFCURVE",
-"298 700 CURVE SMOOTH"
+"254 14 CURVE",
+"85 14 LINE"
 );
 }
 );
@@ -1422,7 +1424,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"254 142 LINE",
+"323 0 LINE SMOOTH",
+"539 0 OFFCURVE",
+"740 153 OFFCURVE",
+"740 401 CURVE SMOOTH",
+"740 568 OFFCURVE",
+"644 736 OFFCURVE",
+"377 736 CURVE SMOOTH",
+"177 736 LINE",
+"87 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "273 291 OFFCURVE",
 "292 444 OFFCURVE",
 "310 592 CURVE",
@@ -1432,21 +1447,8 @@ nodes = (
 "589 397 CURVE SMOOTH",
 "589 230 OFFCURVE",
 "473 142 OFFCURVE",
-"315 142 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"177 736 LINE",
-"87 0 LINE",
-"323 0 LINE SMOOTH",
-"539 0 OFFCURVE",
-"740 153 OFFCURVE",
-"740 401 CURVE SMOOTH",
-"740 568 OFFCURVE",
-"644 736 OFFCURVE",
-"377 736 CURVE SMOOTH"
+"315 142 CURVE",
+"254 142 LINE"
 );
 }
 );
@@ -1457,7 +1459,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2016-08-26 20:41:54 +0000";
+lastChange = "2016-08-26 20:52:16 +0000";
 layers = (
 {
 hints = (
@@ -1479,7 +1481,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"84 14 LINE",
+"246 0 LINE SMOOTH",
+"452 0 OFFCURVE",
+"643 154 OFFCURVE",
+"643 387 CURVE SMOOTH",
+"643 534 OFFCURVE",
+"553 700 OFFCURVE",
+"297 700 CURVE SMOOTH",
+"154 700 LINE",
+"69 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"334 346 LINE",
+"336 360 LINE",
+"55 360 LINE",
+"53 346 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "112 238 OFFCURVE",
 "139 461 OFFCURVE",
 "167 685 CURVE",
@@ -1489,30 +1513,8 @@ nodes = (
 "630 385 CURVE SMOOTH",
 "630 161 OFFCURVE",
 "448 14 OFFCURVE",
-"253 14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"154 700 LINE",
-"69 0 LINE",
-"246 0 LINE SMOOTH",
-"452 0 OFFCURVE",
-"643 154 OFFCURVE",
-"643 387 CURVE SMOOTH",
-"643 534 OFFCURVE",
-"553 700 OFFCURVE",
-"297 700 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"53 346 LINE",
-"334 346 LINE",
-"336 360 LINE",
-"55 360 LINE"
+"253 14 CURVE SMOOTH",
+"84 14 LINE"
 );
 }
 );
@@ -1538,7 +1540,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"255 142 LINE",
+"323 0 LINE SMOOTH",
+"540 0 OFFCURVE",
+"740 153 OFFCURVE",
+"740 401 CURVE SMOOTH",
+"740 568 OFFCURVE",
+"645 736 OFFCURVE",
+"378 736 CURVE SMOOTH",
+"178 736 LINE",
+"87 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"357 306 LINE",
+"369 405 LINE",
+"61 405 LINE",
+"49 306 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "273 291 OFFCURVE",
 "292 444 OFFCURVE",
 "310 592 CURVE",
@@ -1548,30 +1572,8 @@ nodes = (
 "590 397 CURVE SMOOTH",
 "590 230 OFFCURVE",
 "474 142 OFFCURVE",
-"316 142 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"178 736 LINE",
-"87 0 LINE",
-"323 0 LINE SMOOTH",
-"540 0 OFFCURVE",
-"740 153 OFFCURVE",
-"740 401 CURVE SMOOTH",
-"740 568 OFFCURVE",
-"645 736 OFFCURVE",
-"378 736 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"49 306 LINE",
-"357 306 LINE",
-"369 405 LINE",
-"61 405 LINE"
+"316 142 CURVE SMOOTH",
+"255 142 LINE"
 );
 }
 );
@@ -19240,20 +19242,6 @@ width = 300;
 {
 layerId = UUID1;
 width = 300;
-}
-);
-},
-{
-glyphname = .null;
-lastChange = "2016-08-26 20:41:54 +0000";
-layers = (
-{
-layerId = UUID0;
-width = 0;
-},
-{
-layerId = UUID1;
-width = 0;
 }
 );
 },

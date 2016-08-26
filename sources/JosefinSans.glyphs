@@ -1,8 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-H,
-A
+A,
+"\U00D0\U00F0"
 );
 copyright = "Copyright (c) 2010, The Josefin Sans Project Authors (hi@typemade.mx), with Reserved Font Name Josefin";
 customParameters = (
@@ -1457,7 +1457,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2016-08-26 20:34:18 +0000";
+lastChange = "2016-08-26 20:50:49 +0000";
 layers = (
 {
 hints = (
@@ -1479,7 +1479,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"83 14 LINE",
+"246 0 LINE SMOOTH",
+"437 0 OFFCURVE",
+"598 136 OFFCURVE",
+"598 350 CURVE SMOOTH",
+"598 508 OFFCURVE",
+"494 700 OFFCURVE",
+"212 700 CURVE SMOOTH",
+"69 700 LINE",
+"69 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 346 LINE",
+"292 360 LINE",
+"11 360 LINE",
+"11 346 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "83 238 OFFCURVE",
 "83 461 OFFCURVE",
 "83 685 CURVE",
@@ -1489,30 +1511,8 @@ nodes = (
 "585 350 CURVE SMOOTH",
 "585 144 OFFCURVE",
 "432 14 OFFCURVE",
-"252 14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"69 700 LINE",
-"69 0 LINE",
-"246 0 LINE SMOOTH",
-"437 0 OFFCURVE",
-"598 136 OFFCURVE",
-"598 350 CURVE SMOOTH",
-"598 508 OFFCURVE",
-"494 700 OFFCURVE",
-"212 700 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"11 346 LINE",
-"292 346 LINE",
-"292 360 LINE",
-"11 360 LINE"
+"252 14 CURVE SMOOTH",
+"83 14 LINE"
 );
 }
 );
@@ -1538,7 +1538,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"237 142 LINE",
+"323 0 LINE SMOOTH",
+"523 0 OFFCURVE",
+"693 136 OFFCURVE",
+"693 355 CURVE SMOOTH",
+"693 540 OFFCURVE",
+"584 736 OFFCURVE",
+"287 736 CURVE SMOOTH",
+"87 736 LINE",
+"87 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"319 306 LINE",
+"319 405 LINE",
+"11 405 LINE",
+"11 306 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "237 291 OFFCURVE",
 "237 444 OFFCURVE",
 "237 592 CURVE",
@@ -1548,30 +1570,8 @@ nodes = (
 "542 365 CURVE SMOOTH",
 "542 218 OFFCURVE",
 "442 142 OFFCURVE",
-"298 142 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"87 736 LINE",
-"87 0 LINE",
-"323 0 LINE SMOOTH",
-"523 0 OFFCURVE",
-"693 136 OFFCURVE",
-"693 355 CURVE SMOOTH",
-"693 540 OFFCURVE",
-"584 736 OFFCURVE",
-"287 736 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"11 306 LINE",
-"319 306 LINE",
-"319 405 LINE",
-"11 405 LINE"
+"298 142 CURVE SMOOTH",
+"237 142 LINE"
 );
 }
 );
@@ -19246,20 +19246,6 @@ width = 300;
 {
 layerId = UUID1;
 width = 300;
-}
-);
-},
-{
-glyphname = .null;
-lastChange = "2016-08-26 20:32:07 +0000";
-layers = (
-{
-layerId = UUID0;
-width = 0;
-},
-{
-layerId = UUID1;
-width = 0;
 }
 );
 },
